@@ -9,6 +9,10 @@ This repository contains a list of my software development related projects and 
   - [Web AI Game](https://github.com/RandomY-2/Web_AI_Game)
   - [Flappy Bird](https://github.com/RandomY-2/Unity-FlappyBirdClone)
   
+## Skills 
+
+- Frontend: HTML, Javascript, CSS, React, Boostrtap
+- Backend: Java, C++, Python
 
 ## All Projects
 
@@ -19,8 +23,4 @@ This repository contains a list of my software development related projects and 
 - Games
   - [Flappy Bird](https://github.com/RandomY-2/Unity-FlappyBirdClone)
   - [Super Mario](https://github.com/RandomY-2/Unity-MarioClone)
-  
-## Skills 
-
-- Frontend: HTML, Javascript, CSS, React, Boostrtap
-- Backend: Java, C++, Python
+ 
