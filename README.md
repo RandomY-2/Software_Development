@@ -12,7 +12,7 @@ This repository contains a list of my software development related projects and 
 ## Skills 
 
 - Frontend: HTML, Javascript, CSS, React, Boostrtap
-- Backend: Java, C++, Python
+- Programming Languages: Java, C++, Python
 
 ## All Projects
 
