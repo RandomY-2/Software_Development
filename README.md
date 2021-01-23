@@ -6,6 +6,7 @@ This repository contains a list of my software development related projects and 
 
 ## Highlights
   - [React COVID-19 Tracker Page](https://github.com/RandomY-2/React_COVID_Tracker)
+  - [React E-Commerce Store](https://github.com/RandomY-2/React_E_Commerce)
   - [Web AI Game](https://github.com/RandomY-2/Web_AI_Game)
   - [Flappy Bird](https://github.com/RandomY-2/Unity-FlappyBirdClone)
   
@@ -18,6 +19,7 @@ This repository contains a list of my software development related projects and 
 
 - Web Developments
   - [React COVID-19 Tracker Page](https://github.com/RandomY-2/React_COVID_Tracker)
+  - [React E-Commerce Store](https://github.com/RandomY-2/React_E_Commerce)
   - [Web AI Game](https://github.com/RandomY-2/Web_AI_Game)
   - [Web Philadelphia Translocation Classifier](https://github.com/RandomY-2/P5-Web-Development-Philadelphia-Translocation-Classifier)
 - Games
